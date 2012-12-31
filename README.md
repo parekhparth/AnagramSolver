@@ -32,7 +32,8 @@ Dictionary is a Map with sorted characters as key and all the corresponding word
 (refer AnagramSolver.java for this)
 
 Programs first loads only those words in dictionary that are subsets of the words for which all the anagrams are to be found.
-After that it iterates through each word from dictionary key and does a forward lookup to see if any valid anagram is found for that key.
+After that it iterates through each word from dictionary key and does a recursive forward lookup to see if any valid anagram is found for that key.
+It will only do forward lookup because, anagrams for all the words that have already been traversed, should have already been found.
 Once you find a set of valid keys that form anagram, merge all the words that correspond to those keys.
 
 (this solver will only list unique anagrams i.e. "eleven plus two" and "two plus eleven" are similar and it will only list one of them)
