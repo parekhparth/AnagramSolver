@@ -42,14 +42,69 @@ Once you find a set of valid keys that form anagram, merge all the words that co
 # Stats
 
 Below time stats are taken from my MacBook Air (8G memory, Intel core i7)
+<table border="0">
+<tr>
+	<th>Words</th>
+	<th>Total number of unique anagrams</th>
+	<th>Minimum anagram word length</th>
+	<th>Time taken (real)</th>
+	<th>Comments</th>
+</tr>
 
-Words					Total number of unique anagrams		Minimum anagram word length		Time taken (real)		Comments
+<tr>
+	<th>"twelve plus one"</th>
+	<th>2886</th>
+	<th>3</th>
+	<th>1.355s</th>
+</tr>
 
-"twelve plus one"		2886								3								1.355s
-"twelve plus one"		20004								2								2.218s
-"anagram solver"		8241								3								1.590s
-"anagram solver"		68016								2								3.751s
-"astronomers"			2848								3								1.143s
-"astronomers"			20279								2								1.904s
-"a decimal point"		41249								3								3.272s
-"a decimal point"		452695								2								18.094s					ran this with -Xmx 2048m
+<tr>
+	<th>"twelve plus one"</th>
+	<th>20004</th>
+	<th>2</th>
+	<th>2.218s</th>
+</tr>
+
+<tr>
+	<th>"anagram solver"</th>
+	<th>8241</th>
+	<th>3</th>
+	<th>1.590s</th>
+</tr>
+
+<tr>
+	<th>"anagram solver"</th>
+	<th>68016</th>
+	<th>2</th>
+	<th>3.751s</th>
+</tr>
+
+<tr>
+	<th>"astronomers"</th>
+	<th>2848</th>
+	<th>3</th>
+	<th>1.143s</th>
+</tr>
+
+<tr>
+	<th>"astronomers"</th>
+	<th>20279</th>
+	<th>2</th>
+	<th>1.904s</th>
+</tr>
+
+<tr>
+	<th>"a decimal point"</th>
+	<th>41249</th>
+	<th>3</th>
+	<th>3.272s</th>
+</tr>
+
+<tr>
+	<th>"a decimal point"</th>
+	<th>452695</th>
+	<th>2</th>
+	<th>18.094s</th>
+	<th>ran this with -Xmx 2048m</th>
+</tr>
+</table>
