@@ -37,3 +37,19 @@ It will only do forward lookup because, anagrams for all the words that have alr
 Once you find a set of valid keys that form anagram, merge all the words that correspond to those keys.
 
 (this solver will only list unique anagrams i.e. "eleven plus two" and "two plus eleven" are similar and it will only list one of them)
+
+
+# Stats
+
+Below time stats are taken from my MacBook Air (8G memory, Intel core i7)
+
+Words					Total number of unique anagrams		Minimum anagram word length		Time taken (real)		Comments
+
+"twelve plus one"		2886								3								1.355s
+"twelve plus one"		20004								2								2.218s
+"anagram solver"		8241								3								1.590s
+"anagram solver"		68016								2								3.751s
+"astronomers"			2848								3								1.143s
+"astronomers"			20279								2								1.904s
+"a decimal point"		41249								3								3.272s
+"a decimal point"		452695								2								18.094s					ran this with -Xmx 2048m
