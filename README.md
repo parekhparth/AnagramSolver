@@ -49,7 +49,6 @@ Below time stats are taken from my MacBook Air (8G memory, Intel core i7)
 	<th>Minimum anagram word length</th>
 	<th>Time taken (real)</th>
 	<th>Comments</th>
-	<th></th>
 </tr>
 
 <tr>
