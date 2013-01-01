@@ -52,59 +52,59 @@ Below time stats are taken from my MacBook Air (8G memory, Intel core i7)
 </tr>
 
 <tr>
-	<th>"twelve plus one"</th>
-	<th>2886</th>
-	<th>3</th>
-	<th>1.355s</th>
+	<td>"twelve plus one"</th>
+	<td>2886</th>
+	<td>3</th>
+	<td>1.355s</th>
 </tr>
 
 <tr>
-	<th>"twelve plus one"</th>
-	<th>20004</th>
-	<th>2</th>
-	<th>2.218s</th>
+	<td>"twelve plus one"</th>
+	<td>20004</th>
+	<td>2</th>
+	<td>2.218s</th>
 </tr>
 
 <tr>
-	<th>"anagram solver"</th>
-	<th>8241</th>
-	<th>3</th>
-	<th>1.590s</th>
+	<td>"anagram solver"</th>
+	<td>8241</th>
+	<td>3</th>
+	<td>1.590s</th>
 </tr>
 
 <tr>
-	<th>"anagram solver"</th>
-	<th>68016</th>
-	<th>2</th>
-	<th>3.751s</th>
+	<td>"anagram solver"</th>
+	<td>68016</th>
+	<td>2</th>
+	<td>3.751s</th>
 </tr>
 
 <tr>
-	<th>"astronomers"</th>
-	<th>2848</th>
-	<th>3</th>
-	<th>1.143s</th>
+	<td>"astronomers"</th>
+	<td>2848</th>
+	<td>3</th>
+	<td>1.143s</th>
 </tr>
 
 <tr>
-	<th>"astronomers"</th>
-	<th>20279</th>
-	<th>2</th>
-	<th>1.904s</th>
+	<td>"astronomers"</th>
+	<td>20279</th>
+	<td>2</th>
+	<td>1.904s</th>
 </tr>
 
 <tr>
-	<th>"a decimal point"</th>
-	<th>41249</th>
-	<th>3</th>
-	<th>3.272s</th>
+	<td>"a decimal point"</th>
+	<td>41249</th>
+	<td>3</th>
+	<td>3.272s</th>
 </tr>
 
 <tr>
-	<th>"a decimal point"</th>
-	<th>452695</th>
-	<th>2</th>
-	<th>18.094s</th>
-	<th>ran this with -Xmx 2048m</th>
+	<td>"a decimal point"</th>
+	<td>452695</th>
+	<td>2</th>
+	<td>18.094s</th>
+	<td>ran this with -Xmx 2048m</th>
 </tr>
 </table>
