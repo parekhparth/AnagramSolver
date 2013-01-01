@@ -49,62 +49,70 @@ Below time stats are taken from my MacBook Air (8G memory, Intel core i7)
 	<th>Minimum anagram word length</th>
 	<th>Time taken (real)</th>
 	<th>Comments</th>
+	<th></th>
 </tr>
 
 <tr>
-	<td>"twelve plus one"</th>
-	<td>2886</th>
-	<td>3</th>
-	<td>1.355s</th>
+	<td>"twelve plus one"</td>
+	<td>2886</td>
+	<td>3</td>
+	<td>1.355s</td>
+	<td></td>
 </tr>
 
 <tr>
-	<td>"twelve plus one"</th>
-	<td>20004</th>
-	<td>2</th>
-	<td>2.218s</th>
+	<td>"twelve plus one"</td>
+	<td>20004</td>
+	<td>2</td>
+	<td>2.218s</td>
+	<td></td>
 </tr>
 
 <tr>
-	<td>"anagram solver"</th>
-	<td>8241</th>
-	<td>3</th>
-	<td>1.590s</th>
+	<td>"anagram solver"</td>
+	<td>8241</td>
+	<td>3</td>
+	<td>1.590s</td>
+	<td></td>
 </tr>
 
 <tr>
-	<td>"anagram solver"</th>
-	<td>68016</th>
-	<td>2</th>
-	<td>3.751s</th>
+	<td>"anagram solver"</td>
+	<td>68016</td>
+	<td>2</td>
+	<td>3.751s</td>
+	<td></td>
 </tr>
 
 <tr>
-	<td>"astronomers"</th>
-	<td>2848</th>
-	<td>3</th>
-	<td>1.143s</th>
+	<td>"astronomers"</td>
+	<td>2848</td>
+	<td>3</td>
+	<td>1.143s</td>
+	<td></td>
 </tr>
 
 <tr>
-	<td>"astronomers"</th>
-	<td>20279</th>
-	<td>2</th>
-	<td>1.904s</th>
+	<td>"astronomers"</td>
+	<td>20279</td>
+	<td>2</td>
+	<td>1.904s</td>
+	<td></td>
 </tr>
 
 <tr>
-	<td>"a decimal point"</th>
-	<td>41249</th>
-	<td>3</th>
-	<td>3.272s</th>
+	<td>"a decimal point"</td>
+	<td>41249</td>
+	<td>3</td>
+	<td>3.272s</td>
+	<td></td>
 </tr>
 
 <tr>
-	<td>"a decimal point"</th>
-	<td>452695</th>
-	<td>2</th>
-	<td>18.094s</th>
-	<td>ran this with -Xmx 2048m</th>
+	<td>"a decimal point"</td>
+	<td>452695</td>
+	<td>2</td>
+	<td>18.094s</td>
+	<td>ran this with -Xmx 2048m</td>
 </tr>
 </table>
