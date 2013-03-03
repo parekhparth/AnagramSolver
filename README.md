@@ -2,22 +2,23 @@
 A multi word anagram solver
 
 # Build
-git clone https://github.com/parekhparth/AnagramSolver.git
+	git clone https://github.com/parekhparth/AnagramSolver.git
 
-cd AnagramSolver
+	cd AnagramSolver
 
-mvn clean install
+	mvn clean install
 (above command runs the test and builds the 1.0-SNAPSHOT jar)
 
 # Execute
 after you build the jar, you can run the anagram solver using following:
 
 Usage:
-java -cp AnagramSolver.jar com.parthparekh.algorithms.AnagramSolver <absolute_path_to_wordlist_file> <min_word_length> <words_for_anagram_search>
+	
+	java -cp AnagramSolver.jar com.parthparekh.algorithms.AnagramSolver <absolute_path_to_wordlist_file> <min_word_length> <words_for_anagram_search>
 
 for e.g. if you want to find all the anagrams for "eleven plus two" with minimum 3 letter words, and wordlist file under /tmp/wordlist.txt, you need to run:
 
-java -cp AnagramSolver.jar com.parthparekh.algorithms.AnagramSolver /tmp/wordlist.txt 3 eleven plus two
+	java -cp AnagramSolver.jar com.parthparekh.algorithms.AnagramSolver /tmp/wordlist.txt 3 eleven plus two
 
 (you can download the wordlist from here => http://www.sil.org/linguistics/wordlists/english/)
 
