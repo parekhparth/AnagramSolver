@@ -15,7 +15,7 @@ import java.util.TreeSet;
 /*
  * data structure to store the dictionary of words with sorted keys
  *
- * @author: Parth Parekh (parthparekh [at] gatech [dot] edu)
+ * @author: Parth Parekh
  */
 public class SortedWordDictionary {
 

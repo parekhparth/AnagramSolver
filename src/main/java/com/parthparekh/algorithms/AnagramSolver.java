@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * This class will implement the logic to solve multi-word anagrams
  *
- * @author: Parth Parekh (parthparekh [at] gatech [dot] edu)
+ * @author: Parth Parekh
  */
 public class AnagramSolver {
 

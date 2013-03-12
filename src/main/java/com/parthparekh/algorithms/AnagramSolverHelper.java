@@ -9,7 +9,7 @@ import java.util.Set;
 /**
  * this is a helper class holding all the static methods useful for solving anagrams
  *
- * @author: Parth Parekh (parthparekh [at] gatech [dot] edu)
+ * @author: Parth Parekh
  */
 public class AnagramSolverHelper {
 

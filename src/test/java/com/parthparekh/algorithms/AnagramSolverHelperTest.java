@@ -11,7 +11,7 @@ import java.util.Set;
 /**
  * Unit test for AnagramSolverHelper functions
  *
- * @author: Parth Parekh (parthparekh [at] gatech [dot] edu)
+ * @author: Parth Parekh
  */
 public class AnagramSolverHelperTest {
 

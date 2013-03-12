@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  * Unit test for SortedWordDictionary class
  *
- * @author: Parth Parekh (parthparekh [at] gatech [dot] edu)
+ * @author: Parth Parekh
  */
 public class SortedWordDictionaryTest {
 
