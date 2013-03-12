@@ -116,3 +116,8 @@ Below time stats are taken from my MacBook Air (8G memory, Intel core i7)
 	<td>ran this with -Xmx 2048m</td>
 </tr>
 </table>
+
+
+# LICENSE
+
+This project is under "Do whatever you want" MIT License => http://www.tldrlegal.com/license/mit-license
